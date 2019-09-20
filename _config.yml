@@ -265,3 +265,4 @@ defaults:
       thumbnail: /static/img/course_cover/git.jpg
       b-cid: 26719433
       published: true
+theme: jekyll-theme-cayman
